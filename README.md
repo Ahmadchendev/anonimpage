@@ -5,7 +5,7 @@
   * [Demo 1](https://ahmadchendev.github.io/anonimpage/classic-version-1.html)
   * [Demo 2](https://ahmadchendev.github.io/anonimpage/classic-version-2.html)
   * [Demo 3](https://ahmadchendev.github.io/anonimpage/classic-version-3.html)
-  * [Demo 4)](https://ahmadchendev.github.io/anonimpage/classic-version-4.html)
+  * [Demo 4](https://ahmadchendev.github.io/anonimpage/classic-version-4.html)
   * [Demo 5](https://ahmadchendev.github.io/anonimpage/classic-version-5.html)
   * [Demo 6](https://ahmadchendev-github.io/anonimpage/image-slide-version-3.html)
   * [Demo 7](https://ahmadchendev-github.io/anonimpage/image-slide-version-4.html)
